@@ -1,0 +1,50 @@
+{
+   "cat" : [
+                {
+                "id" : 1, 
+                "parent_id" : 0,
+                "name=" : "Bangladesh"
+                },
+                {
+                    "id" : 2, 
+                    "parent_id" : 1,
+                    "name=" : "Dhaka"
+                },
+                {
+                    "id" : 3, 
+                    "parent_id" : 1,
+                    "name=" : "Chittagong"
+                },
+                {
+                    "id" : 4, 
+                    "parent_id" : 2,
+                    "name=" : "Narinda"
+                },
+                {
+                    "id" : 5, 
+                    "parent_id" : 3,
+                    "name=" : "Agrabad"
+                },
+                {
+                    "id" : 6, 
+                    "parent_id" : 0,
+                    "name=" : "India"
+                },
+                {
+                    "id" : 7, 
+                    "parent_id" : 6,
+                    "name=" : "Delhi"
+                },
+                {
+                    "id" : 8, 
+                    "parent_id" : 4,
+                    "name=" : "Narinda Lane"
+                },
+                {
+                    "id" : 9, 
+                    "parent_id" : 7,
+                    "name=" : "India Gate"
+                }
+            ]
+
+}
