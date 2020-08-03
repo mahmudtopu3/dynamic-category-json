@@ -3,47 +3,47 @@
                 {
                 "id" : 1, 
                 "parent_id" : 0,
-                "name=" : "Bangladesh"
+                "name" : "Bangladesh"
                 },
                 {
                     "id" : 2, 
                     "parent_id" : 1,
-                    "name=" : "Dhaka"
+                    "name" : "Dhaka"
                 },
                 {
                     "id" : 3, 
                     "parent_id" : 1,
-                    "name=" : "Chittagong"
+                    "name" : "Chittagong"
                 },
                 {
                     "id" : 4, 
                     "parent_id" : 2,
-                    "name=" : "Narinda"
+                    "name" : "Narinda"
                 },
                 {
                     "id" : 5, 
                     "parent_id" : 3,
-                    "name=" : "Agrabad"
+                    "name" : "Agrabad"
                 },
                 {
                     "id" : 6, 
                     "parent_id" : 0,
-                    "name=" : "India"
+                    "name" : "India"
                 },
                 {
                     "id" : 7, 
                     "parent_id" : 6,
-                    "name=" : "Delhi"
+                    "name" : "Delhi"
                 },
                 {
                     "id" : 8, 
                     "parent_id" : 4,
-                    "name=" : "Narinda Lane"
+                    "name" : "Narinda Lane"
                 },
                 {
                     "id" : 9, 
                     "parent_id" : 7,
-                    "name=" : "India Gate"
+                    "name" : "India Gate"
                 }
             ]
 
